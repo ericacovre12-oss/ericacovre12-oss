@@ -51,7 +51,7 @@
 
 #
 
-![Snake animation](https://github.com/ericacovre12-oss/ericacovre12-oss/blob/output/github-contribution-grid-snake.svg)
-  
+ <img src="https://github.com/ericacovre12-oss/repo/blob/main/snake.svg" alt="Snake">
+
 </div>
 
