@@ -1,4 +1,4 @@
-## Oii eu sou a Érica Covre, estudante de Engenharia de Software com formação técnica em Informática!
+## Oii eu sou a Érica Covre!
 <h3 align="left">Sobre mim: </h3>
 
 <p align="justify">
