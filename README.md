@@ -12,7 +12,7 @@ Tenho certificações em Informática Básica (IPD) e Inglês (Teens Starter e E
 
 ---
 
-## GitHub Stats
+##
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ericacovre12-oss&show_icons=true&theme=omni&count_private=true"/>
@@ -33,7 +33,7 @@ Tenho certificações em Informática Básica (IPD) e Inglês (Teens Starter e E
 
 ---
 
-##Fale comigo
+## Fale comigo
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Tenho certificações em Informática Básica (IPD) e Inglês (Teens Starter e E
 
 ---
 
-##Contributions Snake
+##
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ericacovre12-oss/ericacovre12-oss/output/snake.svg" alt="Snake animation">
