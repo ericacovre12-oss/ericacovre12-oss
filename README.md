@@ -15,15 +15,6 @@
 #
 
 <br>
-<div>
-<a href="https://github.com/ericacovre12-oss/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ericacovre12-oss&repo=github-readme-stats&theme=omni" />
-</a>
-  <br><br>
-<a href="https://github.com/ericacovre12-oss/ericacovre12-oss.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ericacovre12-oss&repo=ericacovre12-oss.github.io&theme=omni" />
-</a>
-  <br><br>
   
 </div>
 <div style="display: inline_block"><br>
@@ -49,8 +40,6 @@
 [![itch.io](https://img.shields.io/badge/-Itchio-000?style=for-the-badge)](https://ericacovre.itch.io) 
 
 #
-
- <img src="https://github.com/ericacovre12-oss/repo/blob/main/snake.svg" alt="Snake">
 
 </div>
 
